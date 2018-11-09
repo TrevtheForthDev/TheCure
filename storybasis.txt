@@ -1,0 +1,19 @@
+# The Cure
+## Storyline
+
+-- Setting -
+- Modern times
+- City (Boston, NY, Etc.)
+
+-- Plot -
+- Creatures are sorted into BAD or GOOD categories, and main character can choose who to side with.
+
+- People around the main character become infected (the failed experiment [main character] is infectious to those around him) and has to make hard decisions based on urgency, morality, etc.
+
+-- Characters -
+- The Experiment [Main character; Name and Gender chosen by player]
+- The family (Wife/Husband, 3 kids [Boy 12, Girl 5, Newborn girl])
+- The friends (The best friend Kyle, Kyle's sister Janice)
+- The younger sibling Jakob
+- The Hybrids (Medusa, Tritan, Posiden,)
+- Dr. Samovly (Mad russian scientist)
